@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS311_Project3_JAR", "CS311_Project3_JAR.csproj", "{8FE3C86A-E7EB-4BE4-8035-202BBF4FA5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE3C86A-E7EB-4BE4-8035-202BBF4FA5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE3C86A-E7EB-4BE4-8035-202BBF4FA5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE3C86A-E7EB-4BE4-8035-202BBF4FA5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE3C86A-E7EB-4BE4-8035-202BBF4FA5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F89882E8-295B-4C16-8C3A-71ED83A76680}
+	EndGlobalSection
+EndGlobal
